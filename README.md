@@ -16,18 +16,18 @@ bun run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+pages view:
+![image](https://github.com/user-attachments/assets/bf5f7a1b-3814-4031-a565-a12acaaeb4c5)
 
-## Learn More
+![Screenshot 2025-06-14 231010](https://github.com/user-attachments/assets/ea6229b1-c36f-400a-abaf-608fa2cd9944)
+![Screenshot 2025-06-14 230946](https://github.com/user-attachments/assets/93e8378f-f2bb-4178-9698-649b5b9286cc)
+![Screenshot 2025-06-14 230825](https://github.com/user-attachments/assets/cf871dfb-d57b-4093-9da8-4a4405554edd)
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot 2025-06-14 230858](https://github.com/user-attachments/assets/77df1cd3-f7ed-4a1b-ad9c-36d69cca068c)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
